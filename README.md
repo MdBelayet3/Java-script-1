@@ -1,0 +1,1 @@
+In this folder have javascript basic syntax and operation like number, number(x), operation(sum,Subtraction, multiplication and division), reduce array method, shordhand opperation, variable and its type
